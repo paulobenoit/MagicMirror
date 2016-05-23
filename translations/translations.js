@@ -15,4 +15,5 @@ var translations = {
 	"nb" : "translations/nb.json",
 	"nn" : "translations/nn.json",
 	"pt" : "translations/pt.json",
+	"it" : "translations/it.json",
 };
